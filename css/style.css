@@ -1,0 +1,12 @@
+h2.intro {
+  font-family: "Helvetica",sans-serif;
+}
+
+p.intro {
+  font-size: 32px;
+}
+
+img.intro {
+  border-style: dotted;
+  border-color: red;
+}
